@@ -19,36 +19,8 @@
   <defs
      id="defs4">
     <inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect4165"
-       is_visible="true"
-       offset_points="0,1 | 3.4756636,-10.882414 | 7,1"
-       sort_points="true"
-       interpolator_type="Linear"
-       interpolator_beta="0.2"
-       start_linecap_type="round"
-       linejoin_type="round"
-       miter_limit="4"
-       end_linecap_type="round" />
-    <inkscape:path-effect
        effect="spiro"
-       id="path-effect4163"
-       is_visible="true" />
-    <inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect4161"
-       is_visible="true"
-       offset_points="0,1 | 1.7287582,32.382825 | 4,35.345187"
-       sort_points="true"
-       interpolator_type="Linear"
-       interpolator_beta="0.2"
-       start_linecap_type="round"
-       linejoin_type="round"
-       miter_limit="4"
-       end_linecap_type="round" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect4159"
+       id="path-effect4179"
        is_visible="true" />
     <inkscape:path-effect
        effect="powerstroke"
@@ -89,7 +61,7 @@
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
@@ -122,5 +94,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2" />
+     inkscape:label="Layer 2">
+    <path
+       style="fill:#e9ddaf;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 322.23866,365.28728 c -13.27356,3.76389 -25.20971,12.08303 -33.33503,23.23351 -8.69948,11.93841 -12.9031,26.69649 -14.14214,41.41625 -0.78298,9.30175 -0.43148,18.78223 2.03877,27.78409 2.47025,9.00186 7.15242,17.52585 14.12367,23.73369 9.56174,8.51464 22.67495,12.07393 35.46237,12.71254 12.78742,0.63861 25.53652,-1.36157 38.27877,-2.61101 10.28989,-1.00898 20.69983,-1.54237 30.6927,-4.1961 9.99288,-2.65373 19.73285,-7.69049 25.87584,-16.00695 5.28372,-7.15317 7.52258,-16.48176 6.06092,-25.25382 -6.70581,-3.55231 -12.21665,-9.31561 -15.46522,-16.17371 -3.24858,-6.8581 -4.21693,-14.7731 -2.71753,-22.21209 1.11172,-5.51559 3.55789,-10.75737 7.07107,-15.15228 -7.52619,-11.24003 -18.10895,-20.41176 -30.30458,-26.26397 -19.73446,-9.46981 -43.61454,-9.84885 -63.63961,-1.01015 z"
+       id="path4177"
+       inkscape:path-effect="#path-effect4179"
+       inkscape:original-d="m 322.23866,365.28728 c 0,0 -27.27412,15.15229 -33.33503,23.23351 -6.06092,8.08122 -14.14214,39.39595 -14.14214,41.41625 0,2.02031 4.04061,46.46702 16.16244,51.51778 12.12183,5.05076 44.44672,13.13198 73.74114,10.10153 29.29442,-3.03046 54.54824,-12.12183 56.56854,-20.20305 2.02031,-8.08123 6.06092,-25.25382 6.06092,-25.25382 0,0 -19.1929,-33.33503 -18.18275,-38.3858 1.01015,-5.05076 7.07107,-15.15228 7.07107,-15.15228 0,0 -17.17259,-21.21321 -30.30458,-26.26397 -13.13198,-5.05076 -63.63961,-1.01015 -63.63961,-1.01015 z"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>
